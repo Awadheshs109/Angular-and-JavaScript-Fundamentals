@@ -1,10 +1,3 @@
-if possible add examples.like custom observable subject custom operator
-
-### Updated RxJS Notes for Your Interview Prep
-
-Hey! I've got your back—updated the notes again with new examples for creating a custom Observable, a custom Subject (by extending or using it in a custom way), and a custom operator. I've added these under a new sub-section in Core Concepts called "Custom Implementations" to keep things organized. This builds on the previous version, so you have everything in one place for your interview tomorrow (August 5, 2025). Examples are in TypeScript for clarity, with purposes explained.
-
-As always, sourced from official RxJS documentation and expert guides. Practice these customs hands-on; they're common in interviews to test deeper understanding.
 
 #### Core Concepts
 
